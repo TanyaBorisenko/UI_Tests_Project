@@ -1,0 +1,5 @@
+﻿{
+    "BrowserName": "chrome",
+    "Url": "https://demoqa.com/",
+    "TimeOut": "10"
+}
